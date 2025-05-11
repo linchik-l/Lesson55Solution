@@ -23,4 +23,3 @@ int main() {
 	cout << number << "! = " << factorial(number) << endl;
 	return 0;
 }
-158661
